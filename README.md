@@ -57,27 +57,17 @@ My work sits at the intersection of **infrastructure automation** and **develope
 
 **Observability:** Prometheus · Grafana · ELK Stack · Datadog
 
-**Scripting:** Bash · Python · Go
+**Scripting:** Bash · Go
 
-**Version Control:** Git · GitHub · GitLab
-
-> _Note: adjust this list to match the tools you've actually worked with most — recruiters do read it._
-
----
-
-## 📈 GitHub Stats
-
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+**Version Control:** Git · GitHub · GitLab, etc.
 
 ---
 
 ## 🤝 Let's Connect
 
 - 📧 Email: philndubuoke@gmail.com
-- 💼 LinkedIn: _add your profile link_
-- ✍️ Blog / Portfolio: _add if you have one_
+- 💼 LinkedIn: __
+- ✍️ Blog / Portfolio: __
 
 ---
 
