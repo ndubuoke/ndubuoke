@@ -53,9 +53,9 @@ My work sits at the intersection of **infrastructure automation** and **develope
 
 **IaC & Config:** Terraform · Ansible · CloudFormation
 
-**CI/CD:** GitHub Actions · Jenkins · GitLab CI · ArgoCD
+**CI/CD:** GitHub Actions · Azure pipelines · GitLab CI · ArgoCD etc. 
 
-**Observability:** Prometheus · Grafana · ELK Stack · Datadog
+**Observability:** Prometheus · Grafana · ELK Stack · Datadog etc. 
 
 **Scripting:** Bash · Go
 
